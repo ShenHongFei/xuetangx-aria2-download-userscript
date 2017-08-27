@@ -4,11 +4,11 @@
 // @version      2017.8.27.19.10
 // @description  1.提取视频和字幕的链接<br>2.按照上下文自动生成文件名<br>3.点击按钮通过 JOSN-RPC 调用 aria2 下载至指定文件夹
 // @author       沈鸿飞
-// @homepageURL  
-// @updateURL    
+// @homepageURL  https://github.com/ShenHongFei/xuetangx-aria2-download-userscript
+// @updateURL    https://github.com/ShenHongFei/xuetangx-aria2-download-userscript/raw/master/index.user.js
+// @icon         https://github.com/ShenHongFei/xuetangx-aria2-download-userscript/raw/master/favicon.png
 // @match        http://www.xuetangx.com/courses/**
 // @match        https://www.xuetangx.com/courses/**
-// @icon         https://github.com/ShenHongFei/xuetangx-aria2-download-userscript/favicon.png
 // @license      MIT License
 // @run-at       document-idle
 // @grant        GM_getValue
