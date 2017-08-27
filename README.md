@@ -26,7 +26,7 @@
 
     [Tempermonkey](https://tampermonkey.net/) 或  [Violentmonkey](https://violentmonkey.github.io/) 或 [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
-2.  关于 aria2 下载软件，参考 [(下载+教学) aria2 1.32 开源下载器，BT磁力，多线程，百度网盘](blob/master/)
+2.  关于 aria2 下载软件，参考 [(下载+教学) aria2 1.32 开源下载器，BT磁力，多线程，百度网盘](https://www.gdaily.org/12361/aria2-download-torrent-bt)
 
 3.  访问 Greasy Forks上的 [学堂在线 课程视频及字幕 aria2下载脚本](https://greasyfork.org/zh-CN/scripts/32632-%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF-%E8%AF%BE%E7%A8%8B%E8%A7%86%E9%A2%91%E5%8F%8A%E5%AD%97%E5%B9%95-aria2%E4%B8%8B%E8%BD%BD%E8%84%9A%E6%9C%AC) 安装此脚本
 
