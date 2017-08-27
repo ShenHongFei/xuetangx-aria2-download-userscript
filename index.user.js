@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         学堂在线 课程视频及字幕 aria2下载脚本
 // @namespace    https://github.com/ShenHongFei/
-// @version      2017.8.27.19.10
+// @version      2017.8.27.20.22
 // @description  1.提取视频和字幕的链接<br>2.按照上下文自动生成文件名<br>3.点击按钮通过 JOSN-RPC 调用 aria2 下载至指定文件夹
 // @author       沈鸿飞
 // @homepageURL  https://github.com/ShenHongFei/xuetangx-aria2-download-userscript
