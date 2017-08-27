@@ -1,0 +1,18 @@
+{
+    "compilerOptions":{
+        "noImplicitAny":true,
+        "removeComments":false,
+        "preserveConstEnums":true,
+        "sourceMap":true,
+        "inlineSourceMap":true,
+        "inlineSources":true,
+        "target":"es2015",
+        "outFile":"index.user.js"
+    },
+//    "files":[],
+    "include":["src/**/*"],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}
